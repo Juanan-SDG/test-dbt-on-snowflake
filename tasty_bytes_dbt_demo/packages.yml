@@ -1,2 +1,3 @@
 packages:
-  - package: local_packages/dbt-utils-main
+  - package: local_packages/dbt_utils_main/dbt_utils
+  - version: '0.1.0'
